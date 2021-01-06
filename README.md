@@ -1,6 +1,6 @@
 # GrafkomUnityKel4
 
-# <div align="center">Moro Jurig</div>
+# <div align="center">Kurasu</div>
 <p align="center">
   
 ## Story :
